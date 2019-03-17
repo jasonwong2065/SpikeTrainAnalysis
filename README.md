@@ -1,6 +1,12 @@
 # SpikeTrainAnalysis
 MATLAB data analysis of a Interspike Intervals of neurons in a monkey's brain and removing noise from spike train data.
 
+## Attempts at removing noise by binning
+![Spike trains overlayed](spikeTrainAll.JPG)
+
+## Visually choosing the graph which has most signal
+![Significant spike train](spikeTrainIndividual.JPG)
+
 Assignment 2- Spike Data Analysis.pdf is the exercise questions.
 JasonWongAssignment2FINAL.pdf contains my analysis and answers.
 JasonWongAssignment2.m contains the code I wrote to analyse Spike_data_1-4.mat
